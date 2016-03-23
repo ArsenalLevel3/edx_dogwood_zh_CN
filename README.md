@@ -1,4 +1,4 @@
-#README ME
+#README
 Open edX dogwood版的简体中文语言包
 
 当前完成度大约93%，采用的是transifex的最新未审核版本。处理了几十处bug，主要集中在变量部分。
