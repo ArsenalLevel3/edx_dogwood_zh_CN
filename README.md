@@ -18,8 +18,8 @@ source /edx/app/edxapp/edxapp_env
 ```
 cd /edx/app/edxapp/edx-platform/conf/locale/zh_CN/LC_MESSAGES/
 rm *
-wget 
-wget 
+wget https://raw.githubusercontent.com/wwj718/edx_dogwood_zh_CN/master/django.po
+wget https://raw.githubusercontent.com/wwj718/edx_dogwood_zh_CN/master/djangojs.po
 ```
 
 ###使用翻译文件
